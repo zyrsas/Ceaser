@@ -113,6 +113,7 @@ class MainWindow(QDialog, form_class):
 
     def Clear1(self):
         self.textBrowser.clear()
+        exit()
 
 
     def Clear2(self):
